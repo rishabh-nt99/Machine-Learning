@@ -1,5 +1,3 @@
-# Machine-Learning
-
 # Problem Statement: 
 Project to predict if an aerial image (satellite image) consists a cactus in it or not. 
 
