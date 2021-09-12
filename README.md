@@ -1,11 +1,4 @@
-# Problem Statement: 
-Project to predict if an aerial image (satellite image) consists a cactus in it or not. 
+# Description
 
-# Data: 
-The data set is from Kaggle: https://www.kaggle.com/c/aerial-cactus-identification
+This repository contains my work related to Machine Learning and AI for my courses in University. Different Projects with Source Code are present in the respective folders. If A report was written, it is also present. 
 
-# Implementation: 
-Tensorflow CNN used with Data Augmentation. 
-
-# Result:
-The CNN got an overall accuracy of 99.7%  
