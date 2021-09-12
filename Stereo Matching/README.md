@@ -7,5 +7,5 @@ truth.
 # Implementation: 
 Used SIFT with Keypoint Matching and Image rectification to create the Disparity Map.
 
-#Note: 
+# Note: 
 Refer to Submission Report for more details
