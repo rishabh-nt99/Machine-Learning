@@ -1,13 +1,13 @@
 # Machine-Learning
 
-##Problem Statement: 
+# Problem Statement: 
 Project to predict if an aerial image (satellite image) consists a cactus in it or not. 
 
-##Data: 
+# Data: 
 The data set is from Kaggle: https://www.kaggle.com/c/aerial-cactus-identification
 
-##Implementation: 
+# Implementation: 
 Tensorflow CNN used with Data Augmentation. 
 
-##Result:
+# Result:
 The CNN got an overall accuracy of 99.7%  
